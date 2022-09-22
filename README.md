@@ -12,4 +12,5 @@ If you think a badge is missing feel free to create a PR.
 If you don't want to download the files you can use [jsdelivr](https://jsdelivr.net) to host them for you.
 
 For example `https://cdn.jsdelivr.net/gh/merlinfuchs/discord-badges/PNG/bug_hunter_level_2.png` resolves to:
+
 ![Bug Hunter Level 2](https://cdn.jsdelivr.net/gh/merlinfuchs/discord-badges/PNG/bug_hunter_level_2.png)
