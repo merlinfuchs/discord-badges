@@ -15,6 +15,7 @@ BADGE_HASHES = dict(
     early_supporter="b802e9af134ff492276d94220e36ec5c",
     nitro="24d05f3b46a110e538674edbac0db4cd",
     partnered_server_owner="34306011e46e87f8ef25f3415d3b99ca",
+    active_developer="26c7a60fb1654315e0be26107bd47470",
 
     boosting_1_months="ca18353be0e57a2b3b3132fa1c08d6b4",
     boosting_2_months="22f99ed6e34eaca48950254c70f8fe8d",
